@@ -1,0 +1,15 @@
+{
+  "name": "super-mario",
+  "version": "1.0.0",
+  "description": "Super Mario clone made with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Cuenca",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
